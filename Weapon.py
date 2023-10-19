@@ -4,5 +4,4 @@ class Weapon:
         self.range = range
 
     def fire_at(self, x: int, y: int, z: int):
-        print(f"Firing at coordinates ({x}, {y}, {z})") 
-        
+        print(f"Firing at coordinates({x}, {y}, {z})") 

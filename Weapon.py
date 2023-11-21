@@ -10,7 +10,7 @@ class Weapon:
         self.range = range      
         
     def fire_at(self, x: int, y: int, z: int):
-        pass 
+        pass
     
 class MissileSurface(Weapon):
     def fire_at(self, x: int, y: int, z: int):

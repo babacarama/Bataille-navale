@@ -1,5 +1,5 @@
 # missile_launcher.py
-from Weapon import OutOfRangeError
+from Weapon_autre import OutOfRangeError
 from Weapon_autre import Weapon
 
 class MissileLauncher(Weapon):
